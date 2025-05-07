@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./assets/green-life.svg" alt="FastAPI swagger UI" width="40"/>
+  <img src="./assets/green-life.svg" alt="FastAPI Swagger UI" width="40"/>
   <span style="font-size: 1.5em; margin-left: 10px;"><strong>GreenLife-Mental-Health-Chatbot</strong></span>
 </p>
 
